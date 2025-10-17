@@ -62,22 +62,22 @@ Whether it’s a short domestic trip or a long international flight, this tool h
 ## 🖼 Output
 
 ### 🗂️ Scenario Selection 
-![Weather Condition](assets/Weather_Condition.png)
+![Weather Condition](assets/Weather_Condition.png.png)
 
 ### 👤 Type Selection 
-![Passenger 1](assets/Passenger_1.png)
+![Passenger 1](assets/Passenger_1.png.png)
 
 ### 👥 Passenger 2 Type Selection
-![Passenger 2](assets/Passenger_2.png)
+![Passenger 2](assets/Passenger_2.png.png)
 
 ### 👨‍👩‍👧 Passenger 3 Type Selection 
-![passenger 3](assets/Passenger_3.png)
+![passenger 3](assets/Passenger_3.png.png)
 
 ### ▶️ Analyze  
-![Analyze button](assets/Analyze_button.png)
+![Analyze button](assets/Analyze_button.png.png)
 
 ### 🧾 Solution
-![Output](assets/Output.png)
+![Output](assets/Output.png.png)
 
 
 
